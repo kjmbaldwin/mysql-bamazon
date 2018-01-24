@@ -1,0 +1,23 @@
+{
+  "name": "mysql-bamazon",
+  "version": "1.0.0",
+  "description": "SQL Shopping Website",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kjmbaldwin/mysql-bamazon.git"
+  },
+  "author": "Kyle Baldwin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kjmbaldwin/mysql-bamazon/issues"
+  },
+  "homepage": "https://github.com/kjmbaldwin/mysql-bamazon#readme",
+  "dependencies": {
+    "inquirer": "^5.0.1",
+    "mysql": "^2.15.0"
+  }
+}
